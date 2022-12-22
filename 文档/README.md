@@ -1,10 +1,18 @@
 ---
 home: true
+title: 首页
 heroImage: /images/logo.svg
 heroImageDark: /images/logo-white.svg
 heroAlt: '开发者开源网络基金会'
 heroText: '开发者开源网络基金会'
 tagline: '开发者开源网络基金会 - 为了Open Source的荣耀'
+actions:
+  - text: 快速上手
+    link: /zh/guide/
+    type: primary
+  - text: 项目简介
+    link: /zh/guide/introduce.md
+    type: secondary
 features:
     - title: 精彩
       details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
