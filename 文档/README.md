@@ -2,8 +2,7 @@
 home: true
 title: 首页
 heroImage: /images/logo.svg
-heroImageDark: /images/logo-white.svg
-heroAlt: '开发者开源网络基金会'
+heroImageDark: /images/logo-white.svg'
 heroText: '开发者开源网络基金会'
 tagline: '开发者开源网络基金会 - 为了Open Source的荣耀'
 actions:
